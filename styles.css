@@ -459,7 +459,7 @@ nav {
         rgba(0,0,0,.9)
     ),
     url("img/subscribe.png");
-    background-position: center center;
+    background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
 }
