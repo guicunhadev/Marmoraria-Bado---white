@@ -396,14 +396,14 @@ nav {
 
 .gallery ul li {
     list-style: none;
-    font-size: 20px;
+    font-size: 1rem;
     background-color: var(--text-light);
     color: var(--white);
     margin: 5px;
-    padding: 8px 20px;
+    padding: .75rem 1.5rem;
     cursor: pointer;
     transition: 0.4s linear;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 .gallery ul li:hover {
