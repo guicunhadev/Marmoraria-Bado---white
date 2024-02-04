@@ -98,7 +98,7 @@ window.cookieconsent.initialise({
       "text": "#000000"
     },
     "button": {
-      "background": "#0001ff",
+      "background": "#e4ab85",
       "text": "#ffffff"
     }
   },
